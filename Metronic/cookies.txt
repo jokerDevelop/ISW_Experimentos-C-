@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+keenthemes.com	TRUE	/	FALSE	1999999999	PHPSESSID	42f7750e880e717898cf2db31c14258f
+.amcharts.com	TRUE	/	FALSE	1999999999	__cfduid	d5f4e6b6e0eba6dd835af62a2b8e176f61539486917
+
